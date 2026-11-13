@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "首次發佈",
+  "web": {
+    "version": "1.0.0",
+    "url": "web-1.0.0.zip",
+    "sha256": "172257c0dddb935449076f364c93b41804252a21947306153c4a61cc4691d502",
+    "minNative": "1"
+  },
+  "app": {
+    "nativeVersion": "1",
+    "url": "app-1.0.0.zip",
+    "sha256": "29e4a6b2a68ed831fd378d669fd19659ed2f6afa77fde605b66efffc8b831bf5"
+  }
+}
