@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "notes": "首次發佈",
+  "version": "1.1.0",
+  "notes": "多語言（繁體中文、English、日本語）設定移到設定視窗；全新圓角半透明 macOS 風格介面；連接線樣式與拖拉調整；遠端更新",
   "web": {
-    "version": "1.0.0",
-    "url": "web-1.0.0.zip",
-    "sha256": "172257c0dddb935449076f364c93b41804252a21947306153c4a61cc4691d502",
-    "minNative": "1"
+    "version": "1.1.0",
+    "url": "web-1.1.0.zip",
+    "sha256": "c69d7de9be90692f824e58a37896fde8e1babbba61c4666977ed729bb15a16bb",
+    "minNative": "2"
   },
   "app": {
-    "nativeVersion": "1",
-    "url": "app-1.0.0.zip",
-    "sha256": "29e4a6b2a68ed831fd378d669fd19659ed2f6afa77fde605b66efffc8b831bf5"
+    "nativeVersion": "2",
+    "url": "app-1.1.0.zip",
+    "sha256": "54876178d0af496a8d9cfc8b545c593aee28902c092aa21f296a140ce70005f1"
   }
 }
