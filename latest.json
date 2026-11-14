@@ -1,15 +1,15 @@
 {
-  "version": "1.1.4",
-  "notes": "所有主題加框線、外框形狀、80 個範本、新增範本面板、快捷列單行、開始頁加寬、四象限/家族樹/樹狀圖/放射網狀版面、背景圖、程式改名 AI MindMap",
+  "version": "1.1.5",
+  "notes": "家族樹柔化：樹枝線條、圓角淺色框與樹背景；新增世界樹範本",
   "web": {
-    "version": "1.1.4",
-    "url": "web-1.1.4.zip",
-    "sha256": "0d9735aa3f34bb1c290d4e26c6d6b970d5f0994fa21710815705849a859da0f5",
+    "version": "1.1.5",
+    "url": "web-1.1.5.zip",
+    "sha256": "25bdd8080fc810ac7f1c2ce4b098535cdd279f2237fba66e627c00c8b2ce4a78",
     "minNative": "2"
   },
   "app": {
     "nativeVersion": "2",
-    "url": "app-1.1.4.zip",
-    "sha256": "d08aa117d52ec224a62affd16227bd329ac712cac88c19cd3558d81fe1a295d5"
+    "url": "app-1.1.5.zip",
+    "sha256": "706e2319fba6131064cdd24bce3ba516098a6e1b8e15fe8db230349d2e683d85"
   }
 }
