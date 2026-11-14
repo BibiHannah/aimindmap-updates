@@ -1,15 +1,15 @@
 {
-  "version": "1.1.2",
-  "notes": "新增 12 個範本（可收合的「更多範本」）；上方工具列新增「套用範本…」下拉選單",
+  "version": "1.1.4",
+  "notes": "所有主題加框線、外框形狀、80 個範本、新增範本面板、快捷列單行、開始頁加寬、四象限/家族樹/樹狀圖/放射網狀版面、背景圖、程式改名 AI MindMap",
   "web": {
-    "version": "1.1.2",
-    "url": "web-1.1.2.zip",
-    "sha256": "30cbe0a2ab5d8d64aee5e82f3732a7eec315a70ff0122674f81cd569624d7abf",
+    "version": "1.1.4",
+    "url": "web-1.1.4.zip",
+    "sha256": "0d9735aa3f34bb1c290d4e26c6d6b970d5f0994fa21710815705849a859da0f5",
     "minNative": "2"
   },
   "app": {
     "nativeVersion": "2",
-    "url": "app-1.1.2.zip",
-    "sha256": "ddd457d39467f186c9a6f6f16cb6ac9f406f4e4af002cdf57a452afec5fa73e3"
+    "url": "app-1.1.4.zip",
+    "sha256": "d08aa117d52ec224a62affd16227bd329ac712cac88c19cd3558d81fe1a295d5"
   }
 }
