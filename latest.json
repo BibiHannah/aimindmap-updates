@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "多語言（繁體中文、English、日本語）設定移到設定視窗；全新圓角半透明 macOS 風格介面；連接線樣式與拖拉調整；遠端更新",
+  "version": "1.1.1",
+  "notes": "新增圖示快捷列（子主題、同層、版面、收合、標記、檢視）；全新淡色介面；移除儲存/另存/關閉按鈕（仍可用快捷鍵）",
   "web": {
-    "version": "1.1.0",
-    "url": "web-1.1.0.zip",
-    "sha256": "c69d7de9be90692f824e58a37896fde8e1babbba61c4666977ed729bb15a16bb",
+    "version": "1.1.1",
+    "url": "web-1.1.1.zip",
+    "sha256": "be24ca333ea9ba541fc832bc9474c8fcf99a1bd2e1220c7223ba73c5cd970ea8",
     "minNative": "2"
   },
   "app": {
     "nativeVersion": "2",
-    "url": "app-1.1.0.zip",
-    "sha256": "54876178d0af496a8d9cfc8b545c593aee28902c092aa21f296a140ce70005f1"
+    "url": "app-1.1.1.zip",
+    "sha256": "70e461ef5a413f4b7d0f7ca220f39dd3100bf161082b0d8639fac076e08eeb93"
   }
 }
