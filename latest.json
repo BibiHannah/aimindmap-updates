@@ -1,15 +1,15 @@
 {
-  "version": "1.1.1",
-  "notes": "新增圖示快捷列（子主題、同層、版面、收合、標記、檢視）；全新淡色介面；移除儲存/另存/關閉按鈕（仍可用快捷鍵）",
+  "version": "1.1.2",
+  "notes": "新增 12 個範本（可收合的「更多範本」）；上方工具列新增「套用範本…」下拉選單",
   "web": {
-    "version": "1.1.1",
-    "url": "web-1.1.1.zip",
-    "sha256": "be24ca333ea9ba541fc832bc9474c8fcf99a1bd2e1220c7223ba73c5cd970ea8",
+    "version": "1.1.2",
+    "url": "web-1.1.2.zip",
+    "sha256": "30cbe0a2ab5d8d64aee5e82f3732a7eec315a70ff0122674f81cd569624d7abf",
     "minNative": "2"
   },
   "app": {
     "nativeVersion": "2",
-    "url": "app-1.1.1.zip",
-    "sha256": "70e461ef5a413f4b7d0f7ca220f39dd3100bf161082b0d8639fac076e08eeb93"
+    "url": "app-1.1.2.zip",
+    "sha256": "ddd457d39467f186c9a6f6f16cb6ac9f406f4e4af002cdf57a452afec5fa73e3"
   }
 }
