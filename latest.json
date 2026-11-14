@@ -1,15 +1,15 @@
 {
-  "version": "1.1.5",
-  "notes": "家族樹柔化：樹枝線條、圓角淺色框與樹背景；新增世界樹範本",
+  "version": "1.1.6",
+  "notes": "500 項目大圖往外交錯擺放、長句自動換行；自動配色與 20 色；全選與多選；置中；簡報模式（全項目、從主項目逐步）；項目不透明；關閉時提示存檔；貼上大綱與 AI 整理文字；MCP 連接器",
   "web": {
-    "version": "1.1.5",
-    "url": "web-1.1.5.zip",
-    "sha256": "25bdd8080fc810ac7f1c2ce4b098535cdd279f2237fba66e627c00c8b2ce4a78",
+    "version": "1.1.6",
+    "url": "web-1.1.6.zip",
+    "sha256": "cc96385e5800f0e8f702c54d46c430f3939d8240fe4f9cb4ca19d69ca19a055e",
     "minNative": "2"
   },
   "app": {
     "nativeVersion": "2",
-    "url": "app-1.1.5.zip",
-    "sha256": "706e2319fba6131064cdd24bce3ba516098a6e1b8e15fe8db230349d2e683d85"
+    "url": "app-1.1.6.zip",
+    "sha256": "a80ced772e19e2fa8689fd8e6cb57322310d65c33ce4910f0a552002556cb83a"
   }
 }
