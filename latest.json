@@ -1,15 +1,15 @@
 {
-  "version": "1.1.7",
-  "notes": "新增：開啟 SimpleMind (.smmx) 檔；匯出 PDF 與列印（心智圖＋編號大綱）。需重新安裝 App。",
+  "version": "1.1.8",
+  "notes": "",
   "web": {
-    "version": "1.1.7",
-    "url": "web-1.1.7.zip",
-    "sha256": "f2cb3319aa3897d31232b5cd47aa47fdbb20a294dbc6db580ac9a68585ce39a7",
-    "minNative": "3"
+    "version": "1.1.8",
+    "url": "web-1.1.8.zip",
+    "sha256": "a659ff6c588616b1389b7322eb057baf9f0967c737e05abffb080472d482fd2f",
+    "minNative": "4"
   },
   "app": {
-    "nativeVersion": "3",
-    "url": "app-1.1.7.zip",
-    "sha256": "e046cef2556cecd7bfecd9488e67721901d7aa0043799702965c96744e0ba61b"
+    "nativeVersion": "4",
+    "url": "app-1.1.8.zip",
+    "sha256": "77c63aa037e4c7e10857af4bcf62ac637a2ac2a2bc28e9bfa479b282e09eeae6"
   }
 }
