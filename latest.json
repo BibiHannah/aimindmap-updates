@@ -1,15 +1,15 @@
 {
-  "version": "1.1.6",
-  "notes": "500 項目大圖往外交錯擺放、長句自動換行；自動配色與 20 色；全選與多選；置中；簡報模式（全項目、從主項目逐步）；項目不透明；關閉時提示存檔；貼上大綱與 AI 整理文字；MCP 連接器",
+  "version": "1.1.7",
+  "notes": "新增：開啟 SimpleMind (.smmx) 檔；匯出 PDF 與列印（心智圖＋編號大綱）。需重新安裝 App。",
   "web": {
-    "version": "1.1.6",
-    "url": "web-1.1.6.zip",
-    "sha256": "cc96385e5800f0e8f702c54d46c430f3939d8240fe4f9cb4ca19d69ca19a055e",
-    "minNative": "2"
+    "version": "1.1.7",
+    "url": "web-1.1.7.zip",
+    "sha256": "f2cb3319aa3897d31232b5cd47aa47fdbb20a294dbc6db580ac9a68585ce39a7",
+    "minNative": "3"
   },
   "app": {
-    "nativeVersion": "2",
-    "url": "app-1.1.6.zip",
-    "sha256": "a80ced772e19e2fa8689fd8e6cb57322310d65c33ce4910f0a552002556cb83a"
+    "nativeVersion": "3",
+    "url": "app-1.1.7.zip",
+    "sha256": "e046cef2556cecd7bfecd9488e67721901d7aa0043799702965c96744e0ba61b"
   }
 }
