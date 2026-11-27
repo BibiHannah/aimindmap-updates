@@ -1,15 +1,15 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "notes": "",
   "web": {
-    "version": "1.1.8",
-    "url": "web-1.1.8.zip",
-    "sha256": "a659ff6c588616b1389b7322eb057baf9f0967c737e05abffb080472d482fd2f",
+    "version": "1.1.9",
+    "url": "web-1.1.9.zip",
+    "sha256": "44cd95f25eb49c05fea5d308f6e2aa259952c8335a6511210e7d0b732eb11419",
     "minNative": "4"
   },
   "app": {
     "nativeVersion": "4",
-    "url": "app-1.1.8.zip",
-    "sha256": "77c63aa037e4c7e10857af4bcf62ac637a2ac2a2bc28e9bfa479b282e09eeae6"
+    "url": "app-1.1.9.zip",
+    "sha256": "a96209642c854e990d0194ab87166dee2098e56ef49c64cf222c21f57e1020a5"
   }
 }
